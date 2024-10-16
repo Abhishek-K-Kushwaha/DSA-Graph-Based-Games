@@ -2,7 +2,7 @@
 
 This repository contains implementations of various puzzle solvers and game algorithms. The projects demonstrate advanced programming concepts such as graph traversal, memoization, and hashing.
 
-## Contents      
+## Contents                                                           
 
 1. [8-Puzzle Solver](#8-puzzle-solver)
 2. [2x2x2 Rubik's Cube Solver](#2x2x2-rubiks-cube-solver)
@@ -41,7 +41,6 @@ This program implements the game of [Sim](https://en.wikipedia.org/wiki/Sim_(gam
 Key features:
 - Graph representation and manipulation
 - Game state evaluation
-- Includes an AI opponent
 
 ## UpItUp Puzzle Solver
 
