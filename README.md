@@ -41,6 +41,7 @@ This program implements the game of [Sim](https://en.wikipedia.org/wiki/Sim_(gam
 Key features:
 - Graph representation and manipulation
 - Game state evaluation
+- Includes an AI opponent
 
 ## UpItUp Puzzle Solver
 
