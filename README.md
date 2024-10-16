@@ -47,7 +47,7 @@ Key features:
 
 **File:** `UpItUp.cpp`
 
-This program implements a solver for the classic 8-puzzle problem. It uses breadth-first search (BFS) to find the shortest sequence of moves to transform the initial state of the puzzle into the goal state.
+This program implements a solver for the [Up-It-Up Puzzle](https://www.youtube.com/watch?v=HqhC5u0uPi4) problem. It uses breadth-first search (BFS) to find the shortest sequence of moves to transform the initial state of the puzzle into the goal state.
 
 Key features:
 - Efficient state representation
