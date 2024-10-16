@@ -14,7 +14,7 @@ This repository contains implementations of various puzzle solvers and game algo
 
 **File:** `8-Puzzle.cpp`
 
-This program implements a solver for the classic 8-puzzle problem. It uses breadth-first search (BFS) to find the shortest sequence of moves to transform the initial state of the puzzle into the goal state.
+This program implements a solver for the classic [8-Puzzle](https://www.geeksforgeeks.org/8-puzzle-problem-using-branch-and-bound/) problem. It uses breadth-first search (BFS) to find the shortest sequence of moves to transform the initial state of the puzzle into the goal state.
 
 Key features:
 - Efficient state representation
@@ -36,7 +36,7 @@ Key features:
 
 **File:** `Sim.c`
 
-This program implements the game of Sim, a two-player graph theory game. Players take turns coloring edges of a complete graph, with the goal of avoiding the creation of a triangle of their color.
+This program implements the game of [Sim](https://en.wikipedia.org/wiki/Sim_(game)), a two-player graph theory game. Players take turns coloring edges of a complete graph, with the goal of avoiding the creation of a triangle of their color.
 
 Key features:
 - Graph representation and manipulation
